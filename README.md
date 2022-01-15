@@ -1,4 +1,4 @@
-# DevClub-Assignment1
+# Pratham DevClub-Assignment1
 
 You have learnt about HTML, CSS and GitHub in our first session. Now use them to create a webpage by yourself!
 
